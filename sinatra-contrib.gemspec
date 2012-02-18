@@ -111,7 +111,7 @@ Gem::Specification.new do |s|
     "spec/streaming_spec.rb"
   ]
 
-  s.add_dependency "sinatra",   "~> 1.3.0"
+  s.add_dependency "sinatra",   "~> 1.3"
   s.add_dependency "backports", ">= 2.0"
   s.add_dependency "tilt",      "~> 1.3"
   s.add_dependency "rack-test"
